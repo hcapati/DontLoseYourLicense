@@ -40,6 +40,10 @@ ______________________________________________
 
 ## Screenshots
 
+### Database Schema
+
+![alt text](/back-end/schemaWireFrame/dbschema.png)
+
 ### Home Page
 
 ![alt text](/Screenshots/Homepage.png)
