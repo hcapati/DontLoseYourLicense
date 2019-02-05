@@ -56,6 +56,10 @@ ______________________________________________
 
 ![alttext](/Screenshots/Login.png)
 
+### Profile Page
+
+![alt text](/Screenshots/Profile.png)
+
 ### Subscription emails (Mailchimp)
 
 ![alttext](/Screenshots/Mailchimp.png)
